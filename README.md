@@ -1,7 +1,7 @@
 King County House Price Prediction
 A machine learning project to predict house sale prices in King County, Washington, USA, using various regression models. This project was completed as part of an Applied Statistical Analysis course.
 
-https://via.placeholder.com/800x400.png?text=Comparison+of+Model+Predictions
+![Linear Regression Results](https://github.com/Kasra-Shah/House-Price-Prediction-in-King-County/raw/main/regression-plot.png)
 
 📖 Project Overview
 Determining the accurate price of a property is a complex challenge in any real estate market. This project aims to create a predictive model that can estimate house prices based on features like number of bedrooms, square footage, location, and condition. The goal was to compare the performance of different regression models to find the most accurate one.
