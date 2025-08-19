@@ -39,20 +39,13 @@ Conclusion: The Linear Regression model outperformed the other models for this s
 This project was implemented in R.
 
 Clone the repository:
-
-bash
 git clone https://github.com/Kasra-Shah/House-Price-Prediction-in-King-County.git
 Open the R Project file in RStudio.
 
 Install required packages: Ensure the following R packages are installed:
-
 tidyverse (for data manipulation and plotting)
-
 caret (for machine learning functions)
-
 rpart (for decision trees)
-
-r
 install.packages(c("tidyverse", "caret", "rpart"))
 Run the R script (regression_analysis.R) to reproduce the analysis, model training, and results.
 
