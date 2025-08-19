@@ -9,7 +9,7 @@ Determining the accurate price of a property is a complex challenge in any real 
 📊 Dataset
 The dataset consists of house sale records for King County between May 2014 and May 2015.
 
-Source: Kaggle - House Sales in King County
+Source: [Kaggle - House Sales in King County](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data)
 
 Number of Instances: 21,612
 
@@ -42,7 +42,7 @@ Clone the repository:
 
 bash
 git clone https://github.com/Kasra-Shah/House-Price-Prediction-in-King-County.git
-Open the R Project file (if available) in RStudio.
+Open the R Project file in RStudio.
 
 Install required packages: Ensure the following R packages are installed:
 
@@ -58,21 +58,15 @@ Run the R script (regression_analysis.R) to reproduce the analysis, model traini
 
 📁 Repository Structure
 text
-king-county-house-prices/
+House-Price-Prediction-in-King-County/
 ├── data/
 │   └── kc_house_data.csv     # Original dataset
 ├── scripts/
-│   └── regression_analysis.R # Main R script for data cleaning, analysis, and modeling
-├── report-regression.pdf     # Final project report (in Persian)
-└── README.md                # This file
+├────── regression.R # Main R script for data cleaning, analysis, and modeling
+└────── regression_markdown.Rmd # Rmarkdown for better understanding of the analyses process
 👨‍💻 Author
 Kasra Shahriari
 Industrial Engineering Student
 
 📜 License
 This project is for academic purposes.
-
-🙏 Acknowledgments
-Professor Alireza Shadman for course guidance.
-
-Kaggle and the original data contributors.
